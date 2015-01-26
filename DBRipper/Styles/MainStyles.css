@@ -1,0 +1,37 @@
+﻿.tabs-row {
+
+}
+.tab {
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    border: 1px solid #000000;
+}
+.active-tab {
+    border-bottom: 0;
+}
+
+.panels {
+    position: relative;
+}
+.content-panel {
+    border: 1px solid #000000;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: #FFFFFF;
+}
+.active-panel {
+    z-index: 9;
+}
+.passive-panel {
+    z-index: 1;
+}
+
+.status-area {
+    border: 1px solid #000000;
+    background-color: #DDDDDD;
+    width: 500px;
+    height: 300px;
+    overflow: scroll;
+}
+

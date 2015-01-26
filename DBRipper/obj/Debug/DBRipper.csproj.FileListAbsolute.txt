@@ -1,0 +1,5 @@
+C:\Users\Seth\documents\visual studio 2013\Projects\DBRipper\DBRipper\bin\DBRipper.dll.config
+C:\Users\Seth\documents\visual studio 2013\Projects\DBRipper\DBRipper\bin\DBRipper.dll
+C:\Users\Seth\documents\visual studio 2013\Projects\DBRipper\DBRipper\bin\DBRipper.pdb
+C:\Users\Seth\documents\visual studio 2013\Projects\DBRipper\DBRipper\obj\Debug\DBRipper.dll
+C:\Users\Seth\documents\visual studio 2013\Projects\DBRipper\DBRipper\obj\Debug\DBRipper.pdb
